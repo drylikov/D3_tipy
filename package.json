@@ -1,0 +1,33 @@
+
+{
+  "name": "D3_tipy",
+  "version": "1.2.3",
+  "description": "D3 tooltip",
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "main": "build/index.js",
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "make build"
+  },
+  "keywords": [
+    "tooltip",
+    "d3",
+    "tip"
+  ],
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  },
+  "devDependencies": {
+    "d3": "^4.3.0",
+    "d3-bar": "^1.1.0",
+    "react-fatigue-dev": ""
+  },
+  "dependencies": {
+    "document-offset": "^1.0.4"
+  },
+  "files": [
+    "build"
+  ]
+}
