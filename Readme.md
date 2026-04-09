@@ -1,4 +1,4 @@
-# D3_tipy.
+# D3 tipy.
 
  D3 tooltip. See source for examples and documentation.
 
@@ -23,7 +23,6 @@ Start dev server:
 ```
 $ make start
 ```
-
 
 
 
