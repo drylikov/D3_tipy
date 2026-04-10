@@ -7,7 +7,7 @@
 ## Installation
 
 ```
-$ npm install d3-tipy
+$ npm install d3_tipy
 ```
 
 ## Developing
